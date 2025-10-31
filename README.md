@@ -14,7 +14,7 @@
   </ul>
 </div>
 
-<img align="right" alt="GIF" height="180px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQyZGwwNG8zcXE2bDRvdmhtZnBkN3o0eXIxcHd0bmhuZTV2aGc1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PmMiUc9OH4lO/giphy.gif" />
+<img align="right" alt="GIF" height="170px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQyZGwwNG8zcXE2bDRvdmhtZnBkN3o0eXIxcHd0bmhuZTV2aGc1byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2PmMiUc9OH4lO/giphy.gif" />
 
 <br>
 <br>
@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<img align="left" alt="GIF" height="335px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjY200a3V5cjh6NWJpdzhteWR2ZTV0bmlwdXh2N3NvcDVlZ2ltdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif" />
+<img align="left" alt="GIF" height="315px" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTNjY200a3V5cjh6NWJpdzhteWR2ZTV0bmlwdXh2N3NvcDVlZ2ltdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sDxVzsDgLo3rLQzVlc/giphy.gif" />
 
 ```python
 class JorgeMedina():
@@ -47,6 +47,8 @@ if __name__ == '__main__':
 ```
 <!--- About me (end) -->
 
+<br>
+<br>
 
 <!--- technologies  (start) -->
 <!--h1 without bottom border-->
