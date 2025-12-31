@@ -60,11 +60,13 @@ if __name__ == '__main__':
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,vite,html,css,javascript,ts,nodejs,npm,figma,github,vscode,python,pycharm,fastapi,mongodb,mysql,postman,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=react,vite,html,css,sass,javascript,ts,nodejs,npm,figma,github,git,vscode,python,pycharm,fastapi,mongodb,mysql,postman,linux,ubuntu&perline=9" />
   </a>
 </p>
 <!--- technologies  (end) -->
 
+<br>
+<br>
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -78,8 +80,7 @@ if __name__ == '__main__':
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JAUM519&theme=radical&show_icons=true&count_private=true" />
-  <br></br>
+
   <img  alt="Mark streak" src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=JAUM519&theme=%7B%22backgroundColor%22%3A%22%23141321%22%2C%22textColor%22%3A%22%23A5F8F2%22%2C%22accentColor%22%3A%22%23F34089%22%2C%22borderColor%22%3A%22%23ffffff%22%2C%22waterColor%22%3A%22%23F34089%22%2C%22streakColor%22%3A%22%23F8D847%22%7D" /> 
 </td>
 
